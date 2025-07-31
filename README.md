@@ -34,7 +34,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='src/assets/Untitled video - Made with Clipchamp (6).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='src/assets/Untitled video - Made with Clipchamp (6).gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with:

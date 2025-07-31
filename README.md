@@ -2,7 +2,7 @@
 
 Submitted by: **Ngaatendwe Dumbarimwe**
 
-This web app: **insert description**
+This web app: **Soccer Mania is a web app that lets users create, view, edit, and manage a roster of soccer players. Users can add new players with attributes like name, position, and skill, view detailed info for each player, and update or delete players as needed. The app provides a summary gallery of all players and uses a clean, modern interface for easy team management.**
 
 Time spent: **5** hours spent in total
 
@@ -34,18 +34,12 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='src/assets/Untitled video - Made with Clipchamp (6).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with:
 
-## Notes
-
-Describe any challenges encountered while building the app.
+- FreeConvert (www.freeconvert.com) 
 
 ## License
 
